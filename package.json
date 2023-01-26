@@ -1,0 +1,29 @@
+{
+  "name": "local_ropa",
+  "version": "1.0.0",
+  "description": "Pruebas automatizadas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianaostri/tiendaDeRopaCypress.git"
+  },
+  "keywords": [
+    "qa",
+    "automation",
+    "tienda",
+    "de",
+    "ropa"
+  ],
+  "author": "cristian aostri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristianaostri/tiendaDeRopaCypress/issues"
+  },
+  "homepage": "https://github.com/cristianaostri/tiendaDeRopaCypress#readme",
+  "dependencies": {
+    "cypress": "^12.4.0"
+  }
+}
